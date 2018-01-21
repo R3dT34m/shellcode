@@ -1,0 +1,734 @@
+Found OpenProcess                    in C:\windows\system32\appverif.exe
+Found CreateProcessW                 in C:\windows\system32\appverif.exe
+Found ShellExecuteExW                in C:\windows\system32\appverif.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\atieclxx.exe
+Found CreateProcessA                 in C:\windows\system32\atieclxx.exe
+Found OpenProcess                    in C:\windows\system32\atieclxx.exe
+Found WinExec                        in C:\windows\system32\atieclxx.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\atiesrxx.exe
+Found CreateProcessAsUserA           in C:\windows\system32\atiesrxx.exe
+Found OpenProcess                    in C:\windows\system32\atiesrxx.exe
+Found CreateProcessA                 in C:\windows\system32\atiesrxx.exe
+
+Found OpenProcess                    in C:\windows\system32\audiodg.exe
+
+Found NtOpenProcess                  in C:\windows\system32\bcdboot.exe
+Found NtWaitForSingleObject          in C:\windows\system32\bcdboot.exe
+
+Found NtWaitForSingleObject          in C:\windows\system32\bcdedit.exe
+
+Found ShellExecuteExW                in C:\windows\system32\BdeUISrv.exe
+
+Found LogonUserW                     in C:\windows\system32\bitsadmin.exe
+Found ImpersonateLoggedOnUser        in C:\windows\system32\bitsadmin.exe
+Found QueueUserAPC                   in C:\windows\system32\bitsadmin.exe
+
+Found CreateProcessAsUserW           in C:\windows\system32\browserchoice.exe
+
+Found ShellExecuteExW                in C:\windows\system32\calc.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\certreq.exe
+Found OpenProcess                    in C:\windows\system32\certreq.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\certutil.exe
+Found OpenProcess                    in C:\windows\system32\certutil.exe
+Found InternetCloseHandle            in C:\windows\system32\certutil.exe
+Found InternetOpenUrlW               in C:\windows\system32\certutil.exe
+Found InternetOpenW                  in C:\windows\system32\certutil.exe
+Found HttpQueryInfoW                 in C:\windows\system32\certutil.exe
+Found InternetReadFile               in C:\windows\system32\certutil.exe
+
+Found CreateProcessW                 in C:\windows\system32\change.exe
+
+Found ShellExecuteExW                in C:\windows\system32\cleanmgr.exe
+
+Found OpenThread                     in C:\windows\system32\cmd.exe
+Found ReadProcessMemory              in C:\windows\system32\cmd.exe
+Found CreateProcessW                 in C:\windows\system32\cmd.exe
+Found ImpersonateLoggedOnUser        in C:\windows\system32\cmd.exe
+Found CreateProcessAsUserW           in C:\windows\system32\cmd.exe
+Found ShellExecuteExW                in C:\windows\system32\cmd.exe
+
+Found WinHttpReadData                in C:\windows\system32\cmdl32.exe
+Found WinHttpOpenRequest             in C:\windows\system32\cmdl32.exe
+Found WinHttpOpen                    in C:\windows\system32\cmdl32.exe
+Found WinHttpCloseHandle             in C:\windows\system32\cmdl32.exe
+Found WinHttpConnect                 in C:\windows\system32\cmdl32.exe
+Found WinHttpSendRequest             in C:\windows\system32\cmdl32.exe
+Found WinHttpReceiveResponse         in C:\windows\system32\cmdl32.exe
+
+Found OpenProcess                    in C:\windows\system32\cmmon32.exe
+
+Found ShellExecuteExW                in C:\windows\system32\cmstp.exe
+
+Found OpenProcess                    in C:\windows\system32\cofire.exe
+
+Found CreateProcessW                 in C:\windows\system32\CompatTelRunner.exe
+
+Found ShellExecuteExW                in C:\windows\system32\CompMgmtLauncher.exe
+
+Found SetWindowsHookExW              in C:\windows\system32\conhost.exe
+Found NtOpenProcess                  in C:\windows\system32\conhost.exe
+Found NtReadVirtualMemory            in C:\windows\system32\conhost.exe
+Found NtWaitForSingleObject          in C:\windows\system32\conhost.exe
+Found NtUnmapViewOfSection           in C:\windows\system32\conhost.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\consent.exe
+Found NtOpenProcess                  in C:\windows\system32\consent.exe
+Found NtReadVirtualMemory            in C:\windows\system32\consent.exe
+Found NtWriteVirtualMemory           in C:\windows\system32\consent.exe
+
+Found ShellExecuteExW                in C:\windows\system32\control.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\credwiz.exe
+Found OpenProcess                    in C:\windows\system32\credwiz.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\cscript.exe
+
+Found CreateProcessW                 in C:\windows\system32\dcomcnfg.exe
+
+Found OpenProcess                    in C:\windows\system32\Defrag.exe
+
+Found ShellExecuteExW                in C:\windows\system32\dfrgui.exe
+
+Found SetWindowsHookExW              in C:\windows\system32\DisplaySwitch.exe
+
+Found ReadProcessMemory              in C:\windows\system32\dpnsvr.exe
+Found OpenProcess                    in C:\windows\system32\dpnsvr.exe
+
+Found OpenProcess                    in C:\windows\system32\drvinst.exe
+
+Found CreateProcessW                 in C:\windows\system32\dvdplay.exe
+
+Found CreateProcessW                 in C:\windows\system32\dvdupgrd.exe
+
+Found NtWaitForSingleObject          in C:\windows\system32\dwm.exe
+Found OpenProcess                    in C:\windows\system32\dwm.exe
+
+Found OpenThread                     in C:\windows\system32\DWWIN.EXE
+Found CreateProcessW                 in C:\windows\system32\DWWIN.EXE
+Found ReadProcessMemory              in C:\windows\system32\DWWIN.EXE
+Found WriteProcessMemory             in C:\windows\system32\DWWIN.EXE
+Found VirtualAllocEx                 in C:\windows\system32\DWWIN.EXE
+Found NtWaitForSingleObject          in C:\windows\system32\DWWIN.EXE
+
+Found CreateProcessW                 in C:\windows\system32\dxcap.exe
+Found OpenThread                     in C:\windows\system32\dxcap.exe
+Found OpenProcess                    in C:\windows\system32\dxcap.exe
+Found ReadProcessMemory              in C:\windows\system32\dxcap.exe
+Found WriteProcessMemory             in C:\windows\system32\dxcap.exe
+
+Found SetWindowsHookExW              in C:\windows\system32\dxdiag.exe
+
+Found ShellExecuteExW                in C:\windows\system32\Dxpserver.exe
+
+Found ShellExecuteExW                in C:\windows\system32\EhStorAuthn.exe
+
+Found OpenProcess                    in C:\windows\system32\escsvc64.exe
+
+Found CreateProcessW                 in C:\windows\system32\forfiles.exe
+
+Found CreateProcessW                 in C:\windows\system32\fsutil.exe
+
+Found CreateProcessA                 in C:\windows\system32\ftp.exe
+
+Found LogonUserW                     in C:\windows\system32\FXSSVC.exe
+Found ImpersonateLoggedOnUser        in C:\windows\system32\FXSSVC.exe
+
+Found ShellExecuteExW                in C:\windows\system32\GettingStarted.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\gpscript.exe
+Found CreateProcessW                 in C:\windows\system32\gpscript.exe
+
+Found OpenProcess                    in C:\windows\system32\icardagt.exe
+Found ShellExecuteExW                in C:\windows\system32\icardagt.exe
+Found InternetOpenW                  in C:\windows\system32\icardagt.exe
+Found InternetReadFile               in C:\windows\system32\icardagt.exe
+Found HttpQueryInfoW                 in C:\windows\system32\icardagt.exe
+Found HttpOpenRequestW               in C:\windows\system32\icardagt.exe
+Found InternetCloseHandle            in C:\windows\system32\icardagt.exe
+
+Found OpenProcess                    in C:\windows\system32\ie4uinit.exe
+Found CreateProcessW                 in C:\windows\system32\ie4uinit.exe
+Found InternetOpenW                  in C:\windows\system32\ie4uinit.exe
+Found HttpOpenRequestW               in C:\windows\system32\ie4uinit.exe
+Found InternetCloseHandle            in C:\windows\system32\ie4uinit.exe
+Found HttpQueryInfoW                 in C:\windows\system32\ie4uinit.exe
+Found InternetReadFile               in C:\windows\system32\ie4uinit.exe
+
+Found OpenProcess                    in C:\windows\system32\ieetwcollector.exe
+
+Found CreateProcessA                 in C:\windows\system32\ieUnatt.exe
+Found OpenProcess                    in C:\windows\system32\ieUnatt.exe
+Found CreateProcessW                 in C:\windows\system32\ieUnatt.exe
+
+Found CreateProcessA                 in C:\windows\system32\iexpress.exe
+
+Found CreateProcessW                 in C:\windows\system32\irftp.exe
+
+Found OpenProcess                    in C:\windows\system32\klist.exe
+
+Found InternetCloseHandle            in C:\windows\system32\logagent.exe
+Found HttpOpenRequestW               in C:\windows\system32\logagent.exe
+Found HttpQueryInfoW                 in C:\windows\system32\logagent.exe
+Found InternetOpenW                  in C:\windows\system32\logagent.exe
+Found HttpQueryInfoA                 in C:\windows\system32\logagent.exe
+Found HttpSendRequestExW             in C:\windows\system32\logagent.exe
+Found InternetReadFile               in C:\windows\system32\logagent.exe
+
+Found OpenProcess                    in C:\windows\system32\lpksetup.exe
+Found CreateProcessW                 in C:\windows\system32\lpksetup.exe
+Found ShellExecuteExW                in C:\windows\system32\lpksetup.exe
+
+Found CreateProcessW                 in C:\windows\system32\lpremove.exe
+
+Found NtOpenProcess                  in C:\windows\system32\lsm.exe
+Found NtWaitForSingleObject          in C:\windows\system32\lsm.exe
+Found OpenProcess                    in C:\windows\system32\lsm.exe
+Found ImpersonateLoggedOnUser        in C:\windows\system32\lsm.exe
+Found CreateProcessW                 in C:\windows\system32\lsm.exe
+Found LogonUserW                     in C:\windows\system32\lsm.exe
+
+Found SetWindowsHookExW              in C:\windows\system32\Magnify.exe
+
+Found CreateProcessW                 in C:\windows\system32\mblctr.exe
+Found SetWindowsHookExW              in C:\windows\system32\mblctr.exe
+Found ShellExecuteExW                in C:\windows\system32\mblctr.exe
+
+Found NtUnmapViewOfSection           in C:\windows\system32\mcbuilder.exe
+
+Found NtWaitForSingleObject          in C:\windows\system32\MdSched.exe
+
+Found OpenProcess                    in C:\windows\system32\mfpmp.exe
+
+Found OpenProcess                    in C:\windows\system32\microsoft.windows.softwarelogo.showdesktop.exe
+
+Found CreateProcessAsUserW           in C:\windows\system32\MigAutoPlay.exe
+
+Found SetWindowsHookExW              in C:\windows\system32\mmc.exe
+Found CreateProcessW                 in C:\windows\system32\mmc.exe
+Found ShellExecuteExW                in C:\windows\system32\mmc.exe
+
+Found CreateProcessW                 in C:\windows\system32\MpSigStub.exe
+Found OpenProcess                    in C:\windows\system32\MpSigStub.exe
+
+Found CreateProcessAsUserW           in C:\windows\system32\MRT.exe
+Found CreateProcessW                 in C:\windows\system32\MRT.exe
+Found ShellExecuteExW                in C:\windows\system32\MRT.exe
+
+Found OpenProcess                    in C:\windows\system32\msconfig.exe
+Found NtWaitForSingleObject          in C:\windows\system32\msconfig.exe
+
+Found SetWindowsHookExW              in C:\windows\system32\msdt.exe
+Found ShellExecuteExW                in C:\windows\system32\msdt.exe
+Found WinHttpWriteData               in C:\windows\system32\msdt.exe
+Found WinHttpConnect                 in C:\windows\system32\msdt.exe
+Found WinHttpCloseHandle             in C:\windows\system32\msdt.exe
+Found WinHttpSendRequest             in C:\windows\system32\msdt.exe
+Found WinHttpOpen                    in C:\windows\system32\msdt.exe
+Found WinHttpOpenRequest             in C:\windows\system32\msdt.exe
+Found WinHttpReadData                in C:\windows\system32\msdt.exe
+Found WinHttpReceiveResponse         in C:\windows\system32\msdt.exe
+
+Found CreateProcessW                 in C:\windows\system32\msdtc.exe
+
+Found CreateProcessW                 in C:\windows\system32\msiexec.exe
+Found OpenProcess                    in C:\windows\system32\msiexec.exe
+
+Found ShellExecuteExW                in C:\windows\system32\mspaint.exe
+
+Found OpenProcess                    in C:\windows\system32\MsSpellCheckingFacility.exe
+Found ImpersonateLoggedOnUser        in C:\windows\system32\MsSpellCheckingFacility.exe
+
+Found CreateProcessW                 in C:\windows\system32\mstsc.exe
+Found ShellExecuteExW                in C:\windows\system32\mstsc.exe
+Found WinHttpSendRequest             in C:\windows\system32\mstsc.exe
+Found WinHttpCloseHandle             in C:\windows\system32\mstsc.exe
+Found WinHttpOpen                    in C:\windows\system32\mstsc.exe
+Found WinHttpConnect                 in C:\windows\system32\mstsc.exe
+Found WinHttpOpenRequest             in C:\windows\system32\mstsc.exe
+
+Found LogonUserW                     in C:\windows\system32\mtstocom.exe
+Found CreateProcessW                 in C:\windows\system32\mtstocom.exe
+
+Found CreateProcessW                 in C:\windows\system32\NAPSTAT.EXE
+
+Found NtWaitForSingleObject          in C:\windows\system32\nbtstat.exe
+
+Found CreateProcessW                 in C:\windows\system32\net.exe
+
+Found OpenProcess                    in C:\windows\system32\NETSTAT.EXE
+
+Found ShellExecuteExW                in C:\windows\system32\notepad.exe
+
+Found CreateProcessAsUserW           in C:\windows\system32\nvvsvc.exe
+
+Found CreateProcessW                 in C:\windows\system32\ocsetup.exe
+
+Found OpenProcess                    in C:\windows\system32\openfiles.exe
+
+Found SetWindowsHookExW              in C:\windows\system32\osk.exe
+
+Found CreateProcessW                 in C:\windows\system32\p2phost.exe
+Found ShellExecuteExW                in C:\windows\system32\p2phost.exe
+
+Found CreateProcessW                 in C:\windows\system32\pcwrun.exe
+
+Found CreateProcessW                 in C:\windows\system32\perfmon.exe
+Found ShellExecuteExW                in C:\windows\system32\perfmon.exe
+
+Found CreateProcessW                 in C:\windows\system32\PkgMgr.exe
+
+Found NtOpenProcess                  in C:\windows\system32\poqexec.exe
+
+Found CreateProcessAsUserW           in C:\windows\system32\PresentationHost.exe
+Found OpenProcess                    in C:\windows\system32\PresentationHost.exe
+Found CreateProcessW                 in C:\windows\system32\PresentationHost.exe
+Found ShellExecuteExW                in C:\windows\system32\PresentationHost.exe
+
+Found CreateProcessW                 in C:\windows\system32\PrintBrmUi.exe
+Found ShellExecuteExW                in C:\windows\system32\PrintBrmUi.exe
+
+Found CreateProcessW                 in C:\windows\system32\psr.exe
+Found ReadProcessMemory              in C:\windows\system32\psr.exe
+Found OpenProcess                    in C:\windows\system32\psr.exe
+Found SetWindowsHookExW              in C:\windows\system32\psr.exe
+Found ShellExecuteExW                in C:\windows\system32\psr.exe
+
+Found CreateProcessW                 in C:\windows\system32\query.exe
+
+Found OpenProcess                    in C:\windows\system32\rasphone.exe
+Found ReadProcessMemory              in C:\windows\system32\rasphone.exe
+
+Found QueueUserAPC                   in C:\windows\system32\rdpclip.exe
+Found OpenThread                     in C:\windows\system32\rdpclip.exe
+
+Found OpenThread                     in C:\windows\system32\rdpinit.exe
+Found OpenProcess                    in C:\windows\system32\rdpinit.exe
+Found ShellExecuteExW                in C:\windows\system32\rdpinit.exe
+
+Found ReadProcessMemory              in C:\windows\system32\rdpshell.exe
+Found OpenThread                     in C:\windows\system32\rdpshell.exe
+Found OpenProcess                    in C:\windows\system32\rdpshell.exe
+Found QueueUserAPC                   in C:\windows\system32\rdpshell.exe
+Found ShellExecuteExW                in C:\windows\system32\rdpshell.exe
+
+Found ReadProcessMemory              in C:\windows\system32\rdrleakdiag.exe
+Found OpenProcess                    in C:\windows\system32\rdrleakdiag.exe
+Found NtWaitForSingleObject          in C:\windows\system32\rdrleakdiag.exe
+Found NtOpenProcess                  in C:\windows\system32\rdrleakdiag.exe
+Found NtCreateThreadEx               in C:\windows\system32\rdrleakdiag.exe
+
+Found OpenThread                     in C:\windows\system32\RDVGHelper.exe
+
+Found NtWaitForSingleObject          in C:\windows\system32\recdisc.exe
+
+Found CreateProcessW                 in C:\windows\system32\regsvr32.exe
+
+Found CreateProcessW                 in C:\windows\system32\reset.exe
+
+Found ShellExecuteExW                in C:\windows\system32\resmon.exe
+
+Found CreateProcessAsUserW           in C:\windows\system32\RmClient.exe
+
+Found OpenProcess                    in C:\windows\system32\Robocopy.exe
+Found OpenThread                     in C:\windows\system32\Robocopy.exe
+
+Found WinHttpSendRequest             in C:\windows\system32\RpcPing.exe
+Found WinHttpConnect                 in C:\windows\system32\RpcPing.exe
+Found WinHttpCloseHandle             in C:\windows\system32\RpcPing.exe
+Found WinHttpOpen                    in C:\windows\system32\RpcPing.exe
+Found WinHttpOpenRequest             in C:\windows\system32\RpcPing.exe
+Found WinHttpReceiveResponse         in C:\windows\system32\RpcPing.exe
+
+Found CreateProcessW                 in C:\windows\system32\rstrui.exe
+Found OpenProcess                    in C:\windows\system32\rstrui.exe
+Found ShellExecuteExW                in C:\windows\system32\rstrui.exe
+
+Found CreateProcessWithLogonW        in C:\windows\system32\runas.exe
+Found CreateProcessAsUserW           in C:\windows\system32\runas.exe
+
+Found CreateProcessW                 in C:\windows\system32\rundll32.exe
+
+Found CreateProcessW                 in C:\windows\system32\runonce.exe
+
+Found OpenProcess                    in C:\windows\system32\sdclt.exe
+Found CreateProcessW                 in C:\windows\system32\sdclt.exe
+Found ShellExecuteExW                in C:\windows\system32\sdclt.exe
+Found NtWaitForSingleObject          in C:\windows\system32\sdclt.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\SearchFilterHost.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\SearchIndexer.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\SearchProtocolHost.exe
+
+Found NtWaitForSingleObject          in C:\windows\system32\services.exe
+Found CreateProcessW                 in C:\windows\system32\services.exe
+Found CreateProcessAsUserW           in C:\windows\system32\services.exe
+Found OpenProcess                    in C:\windows\system32\services.exe
+Found ImpersonateLoggedOnUser        in C:\windows\system32\services.exe
+
+Found OpenProcess                    in C:\windows\system32\sethc.exe
+
+Found NtWaitForSingleObject          in C:\windows\system32\setupcl.exe
+
+Found CreateProcessW                 in C:\windows\system32\setupugc.exe
+
+Found ShellExecuteExW                in C:\windows\system32\slui.exe
+
+Found NtWaitForSingleObject          in C:\windows\system32\smss.exe
+
+Found OpenProcess                    in C:\windows\system32\SndVol.exe
+Found CreateProcessW                 in C:\windows\system32\SndVol.exe
+
+Found CreateProcessW                 in C:\windows\system32\SoundRecorder.exe
+
+Found CreateProcessW                 in C:\windows\system32\spinstall.exe
+
+Found OpenProcess                    in C:\windows\system32\spoolsv.exe
+Found ImpersonateLoggedOnUser        in C:\windows\system32\spoolsv.exe
+
+Found OpenProcess                    in C:\windows\system32\sppsvc.exe
+Found OpenThread                     in C:\windows\system32\sppsvc.exe
+
+Found CreateProcessW                 in C:\windows\system32\spreview.exe
+
+Found NtWaitForSingleObject          in C:\windows\system32\srdelayed.exe
+Found NtCreateThreadEx               in C:\windows\system32\srdelayed.exe
+
+Found OpenProcess                    in C:\windows\system32\takeown.exe
+
+Found CreateProcessW                 in C:\windows\system32\taskeng.exe
+Found OpenProcess                    in C:\windows\system32\taskeng.exe
+
+Found OpenProcess                    in C:\windows\system32\taskkill.exe
+
+Found OpenProcess                    in C:\windows\system32\tasklist.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\taskmgr.exe
+Found OpenProcess                    in C:\windows\system32\taskmgr.exe
+Found OpenThread                     in C:\windows\system32\taskmgr.exe
+Found ReadProcessMemory              in C:\windows\system32\taskmgr.exe
+Found CreateProcessW                 in C:\windows\system32\taskmgr.exe
+Found ShellExecuteExW                in C:\windows\system32\taskmgr.exe
+
+Found OpenProcess                    in C:\windows\system32\telnet.exe
+
+Found CreateProcessW                 in C:\windows\system32\TSWbPrxy.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\UI0Detect.exe
+Found CreateProcessAsUserW           in C:\windows\system32\UI0Detect.exe
+Found OpenProcess                    in C:\windows\system32\UI0Detect.exe
+
+Found OpenProcess                    in C:\windows\system32\upnpcont.exe
+
+Found CreateProcessW                 in C:\windows\system32\userinit.exe
+
+Found OpenProcess                    in C:\windows\system32\Utilman.exe
+
+Found NtWriteVirtualMemory           in C:\windows\system32\VaultSysUi.exe
+Found NtReadVirtualMemory            in C:\windows\system32\VaultSysUi.exe
+Found NtOpenProcess                  in C:\windows\system32\VaultSysUi.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\vmicsvc.exe
+
+Found CreateProcessW                 in C:\windows\system32\vsgraphicsremoteengine.exe
+Found OpenProcess                    in C:\windows\system32\vsgraphicsremoteengine.exe
+
+Found CreateProcessW                 in C:\windows\system32\vsjitdebugger.exe
+Found OpenThread                     in C:\windows\system32\vsjitdebugger.exe
+Found OpenProcess                    in C:\windows\system32\vsjitdebugger.exe
+Found WriteProcessMemory             in C:\windows\system32\vsjitdebugger.exe
+Found ReadProcessMemory              in C:\windows\system32\vsjitdebugger.exe
+Found ShellExecuteExW                in C:\windows\system32\vsjitdebugger.exe
+
+Found OpenThread                     in C:\windows\system32\VSSVC.exe
+Found NtWaitForSingleObject          in C:\windows\system32\VSSVC.exe
+
+Found LogonUserW                     in C:\windows\system32\wbadmin.exe
+Found ImpersonateLoggedOnUser        in C:\windows\system32\wbadmin.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\wbengine.exe
+Found LogonUserW                     in C:\windows\system32\wbengine.exe
+Found NtWaitForSingleObject          in C:\windows\system32\wbengine.exe
+
+Found CreateProcessAsUserW           in C:\windows\system32\WerFault.exe
+Found CreateProcessW                 in C:\windows\system32\WerFault.exe
+Found OpenProcess                    in C:\windows\system32\WerFault.exe
+Found ReadProcessMemory              in C:\windows\system32\WerFault.exe
+Found OpenThread                     in C:\windows\system32\WerFault.exe
+Found NtWaitForSingleObject          in C:\windows\system32\WerFault.exe
+
+Found OpenProcess                    in C:\windows\system32\WerFaultSecure.exe
+Found OpenThread                     in C:\windows\system32\WerFaultSecure.exe
+
+Found CreateProcessW                 in C:\windows\system32\wermgr.exe
+Found OpenProcess                    in C:\windows\system32\wermgr.exe
+Found ReadProcessMemory              in C:\windows\system32\wermgr.exe
+Found ShellExecuteExW                in C:\windows\system32\wermgr.exe
+
+Found CreateProcessW                 in C:\windows\system32\wevtutil.exe
+
+Found CreateProcessA                 in C:\windows\system32\wextract.exe
+
+Found LogonUserW                     in C:\windows\system32\WFS.exe
+Found ImpersonateLoggedOnUser        in C:\windows\system32\WFS.exe
+Found CreateProcessW                 in C:\windows\system32\WFS.exe
+Found ShellExecuteExW                in C:\windows\system32\WFS.exe
+
+Found CreateProcessW                 in C:\windows\system32\wiaacmgr.exe
+
+Found ShellExecuteExW                in C:\windows\system32\WindowsAnytimeUpgradeResults.exe
+
+Found SetWindowsHookExW              in C:\windows\system32\wininit.exe
+Found CreateProcessW                 in C:\windows\system32\wininit.exe
+Found OpenProcess                    in C:\windows\system32\wininit.exe
+Found CreateRemoteThread             in C:\windows\system32\wininit.exe
+Found ImpersonateLoggedOnUser        in C:\windows\system32\wininit.exe
+Found CreateProcessAsUserW           in C:\windows\system32\wininit.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\winlogon.exe
+Found CreateRemoteThread             in C:\windows\system32\winlogon.exe
+Found CreateProcessW                 in C:\windows\system32\winlogon.exe
+Found OpenProcess                    in C:\windows\system32\winlogon.exe
+Found CreateProcessAsUserW           in C:\windows\system32\winlogon.exe
+Found LogonUserW                     in C:\windows\system32\winlogon.exe
+
+Found CreateProcessW                 in C:\windows\system32\winrshost.exe
+Found OpenProcess                    in C:\windows\system32\winrshost.exe
+
+Found OpenThread                     in C:\windows\system32\WinSAT.exe
+Found CreateProcessW                 in C:\windows\system32\WinSAT.exe
+
+Found SetWindowsHookExW              in C:\windows\system32\wisptis.exe
+Found QueueUserAPC                   in C:\windows\system32\wisptis.exe
+Found OpenProcess                    in C:\windows\system32\wisptis.exe
+
+Found NtWaitForSingleObject          in C:\windows\system32\wlanext.exe
+
+Found CreateProcessW                 in C:\windows\system32\WPDShextAutoplay.exe
+Found ShellExecuteExW                in C:\windows\system32\WPDShextAutoplay.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\wscript.exe
+
+Found LogonUserW                     in C:\windows\system32\WSManHTTPConfig.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\wsqmcons.exe
+Found CreateProcessW                 in C:\windows\system32\wsqmcons.exe
+Found WinHttpSendRequest             in C:\windows\system32\wsqmcons.exe
+Found WinHttpWriteData               in C:\windows\system32\wsqmcons.exe
+Found WinHttpConnect                 in C:\windows\system32\wsqmcons.exe
+Found WinHttpCloseHandle             in C:\windows\system32\wsqmcons.exe
+Found WinHttpReadData                in C:\windows\system32\wsqmcons.exe
+Found WinHttpOpenRequest             in C:\windows\system32\wsqmcons.exe
+Found WinHttpReceiveResponse         in C:\windows\system32\wsqmcons.exe
+Found WinHttpOpen                    in C:\windows\system32\wsqmcons.exe
+
+Found CreateProcessW                 in C:\windows\system32\wuapp.exe
+
+Found CreateProcessW                 in C:\windows\system32\wuauclt.exe
+
+Found CreateProcessAsUserW           in C:\windows\system32\wusa.exe
+Found ShellExecuteExW                in C:\windows\system32\wusa.exe
+
+Found OpenProcess                    in C:\windows\system32\xcopy.exe
+
+Found WriteProcessMemory             in C:\windows\system32\xpsrchvw.exe
+Found SetWindowsHookExW              in C:\windows\system32\xpsrchvw.exe
+Found ShellExecuteExW                in C:\windows\system32\xpsrchvw.exe
+
+Found CreateProcessA                 in C:\windows\system32\DriverStore\FileRepository\brmfcmf.inf_amd64_neutral_67b5984f8e8ff717\BrmfRsmg.exe
+
+Found CreateProcessA                 in C:\windows\system32\DriverStore\FileRepository\brmfcwia.inf_amd64_neutral_817b8835aed3d6b7\BrmfRsmg.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\DriverStore\FileRepository\c7125898.inf_amd64_neutral_ba8955d12bfd4bfe\B125371\atieclxx.exe
+Found CreateProcessA                 in C:\windows\system32\DriverStore\FileRepository\c7125898.inf_amd64_neutral_ba8955d12bfd4bfe\B125371\atieclxx.exe
+Found OpenProcess                    in C:\windows\system32\DriverStore\FileRepository\c7125898.inf_amd64_neutral_ba8955d12bfd4bfe\B125371\atieclxx.exe
+Found WinExec                        in C:\windows\system32\DriverStore\FileRepository\c7125898.inf_amd64_neutral_ba8955d12bfd4bfe\B125371\atieclxx.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\DriverStore\FileRepository\c7125898.inf_amd64_neutral_ba8955d12bfd4bfe\B125371\atiesrxx.exe
+Found CreateProcessAsUserA           in C:\windows\system32\DriverStore\FileRepository\c7125898.inf_amd64_neutral_ba8955d12bfd4bfe\B125371\atiesrxx.exe
+Found OpenProcess                    in C:\windows\system32\DriverStore\FileRepository\c7125898.inf_amd64_neutral_ba8955d12bfd4bfe\B125371\atiesrxx.exe
+Found CreateProcessA                 in C:\windows\system32\DriverStore\FileRepository\c7125898.inf_amd64_neutral_ba8955d12bfd4bfe\B125371\atiesrxx.exe
+
+Found CreateProcessA                 in C:\windows\system32\DriverStore\FileRepository\divacx64.inf_amd64_neutral_fa0f82f024789743\ditrace.exe
+
+Found CreateProcessW                 in C:\windows\system32\DriverStore\FileRepository\e_wf1pfe.inf_amd64_neutral_15cab3caa8e8c304\EPUPDATE.EXE
+Found SetWindowsHookExW              in C:\windows\system32\DriverStore\FileRepository\e_wf1pfe.inf_amd64_neutral_15cab3caa8e8c304\EPUPDATE.EXE
+
+Found SetWindowsHookExW              in C:\windows\system32\DriverStore\FileRepository\e_wf1pfe.inf_amd64_neutral_15cab3caa8e8c304\E_DTSKSD.EXE
+Found CreateProcessAsUserW           in C:\windows\system32\DriverStore\FileRepository\e_wf1pfe.inf_amd64_neutral_15cab3caa8e8c304\E_DTSKSD.EXE
+
+Found ShellExecuteExW                in C:\windows\system32\DriverStore\FileRepository\e_wf1pfe.inf_amd64_neutral_15cab3caa8e8c304\E_UPBW02.EXE
+Found SetWindowsHookExW              in C:\windows\system32\DriverStore\FileRepository\e_wf1pfe.inf_amd64_neutral_15cab3caa8e8c304\E_UPBW02.EXE
+
+Found SetWindowsHookExW              in C:\windows\system32\DriverStore\FileRepository\e_wf1pfe.inf_amd64_neutral_15cab3caa8e8c304\E_WATO46.EXE
+Found ShellExecuteExW                in C:\windows\system32\DriverStore\FileRepository\e_wf1pfe.inf_amd64_neutral_15cab3caa8e8c304\E_WATO46.EXE
+
+Found CreateProcessW                 in C:\windows\system32\DriverStore\FileRepository\e_wf1pfe.inf_amd64_neutral_15cab3caa8e8c304\E_WJA030.EXE
+Found SetWindowsHookExW              in C:\windows\system32\DriverStore\FileRepository\e_wf1pfe.inf_amd64_neutral_15cab3caa8e8c304\E_WJA030.EXE
+
+Found SetWindowsHookExW              in C:\windows\system32\DriverStore\FileRepository\e_wf1pfe.inf_amd64_neutral_15cab3caa8e8c304\E_WPPE10.EXE
+
+Found CreateProcessW                 in C:\windows\system32\DriverStore\FileRepository\e_wf1pfe.inf_amd64_neutral_15cab3caa8e8c304\E_WT90IC.EXE
+
+Found CreateProcessW                 in C:\windows\system32\DriverStore\FileRepository\e_wf1pfe.inf_amd64_neutral_15cab3caa8e8c304\E_WT90RN.EXE
+
+Found CreateProcessAsUserW           in C:\windows\system32\DriverStore\FileRepository\e_wf1pfe.inf_amd64_neutral_15cab3caa8e8c304\E_WTACS4.EXE
+Found CreateProcessW                 in C:\windows\system32\DriverStore\FileRepository\e_wf1pfe.inf_amd64_neutral_15cab3caa8e8c304\E_WTACS4.EXE
+Found OpenProcess                    in C:\windows\system32\DriverStore\FileRepository\e_wf1pfe.inf_amd64_neutral_15cab3caa8e8c304\E_WTACS4.EXE
+
+Found CreateProcessW                 in C:\windows\system32\DriverStore\FileRepository\mg2500p6.inf_amd64_neutral_d9ffa94aa143286e\CNMSE.EXE
+
+Found CreateProcessW                 in C:\windows\system32\DriverStore\FileRepository\mg4100p6.inf_amd64_neutral_6016f26741dcdded\CNMSE.EXE
+
+Found ShellExecuteExW                in C:\windows\system32\DriverStore\FileRepository\nvltwu.inf_amd64_neutral_1c28d64745307f83\NvCplSetupInt.exe
+
+Found CreateProcessA                 in C:\windows\system32\DriverStore\FileRepository\synpd.inf_amd64_neutral_b28b907efbdd0634\InstNT.exe
+Found ShellExecuteExA                in C:\windows\system32\DriverStore\FileRepository\synpd.inf_amd64_neutral_b28b907efbdd0634\InstNT.exe
+
+Found SetWindowsHookExW              in C:\windows\system32\DriverStore\FileRepository\synpd.inf_amd64_neutral_b28b907efbdd0634\SynMood.exe
+
+Found OpenProcess                    in C:\windows\system32\DriverStore\FileRepository\synpd.inf_amd64_neutral_b28b907efbdd0634\SynTPEnh.exe
+Found CreateProcessW                 in C:\windows\system32\DriverStore\FileRepository\synpd.inf_amd64_neutral_b28b907efbdd0634\SynTPEnh.exe
+Found ShellExecuteExW                in C:\windows\system32\DriverStore\FileRepository\synpd.inf_amd64_neutral_b28b907efbdd0634\SynTPEnh.exe
+
+Found OpenProcess                    in C:\windows\system32\DriverStore\FileRepository\synpd.inf_amd64_neutral_b28b907efbdd0634\SynTPHelper.exe
+
+Found SetWindowsHookExW              in C:\windows\system32\DriverStore\FileRepository\synpd.inf_amd64_neutral_b28b907efbdd0634\SynZMetr.exe
+
+Found SetWindowsHookExW              in C:\windows\system32\DriverStore\FileRepository\synpd.inf_amd64_neutral_b28b907efbdd0634\Tutorial.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\DriverStore\FileRepository\wvmic.inf_amd64_neutral_b94eb92e8150fa35\vmicsvc.exe
+
+Found NtWaitForSingleObject          in C:\windows\system32\GWX\GWX.exe
+Found ShellExecuteExW                in C:\windows\system32\GWX\GWX.exe
+Found WinHttpSendRequest             in C:\windows\system32\GWX\GWX.exe
+Found WinHttpConnect                 in C:\windows\system32\GWX\GWX.exe
+Found WinHttpCloseHandle             in C:\windows\system32\GWX\GWX.exe
+Found WinHttpOpen                    in C:\windows\system32\GWX\GWX.exe
+Found WinHttpOpenRequest             in C:\windows\system32\GWX\GWX.exe
+Found WinHttpReceiveResponse         in C:\windows\system32\GWX\GWX.exe
+
+Found CreateProcessAsUserW           in C:\windows\system32\GWX\GWXConfigManager.exe
+Found NtWaitForSingleObject          in C:\windows\system32\GWX\GWXConfigManager.exe
+Found WinHttpConnect                 in C:\windows\system32\GWX\GWXConfigManager.exe
+Found WinHttpOpen                    in C:\windows\system32\GWX\GWXConfigManager.exe
+Found WinHttpOpenRequest             in C:\windows\system32\GWX\GWXConfigManager.exe
+Found WinHttpReadData                in C:\windows\system32\GWX\GWXConfigManager.exe
+Found WinHttpSendRequest             in C:\windows\system32\GWX\GWXConfigManager.exe
+Found WinHttpReceiveResponse         in C:\windows\system32\GWX\GWXConfigManager.exe
+Found WinHttpCloseHandle             in C:\windows\system32\GWX\GWXConfigManager.exe
+
+Found NtWaitForSingleObject          in C:\windows\system32\GWX\GWXDetector.exe
+Found WinHttpCloseHandle             in C:\windows\system32\GWX\GWXDetector.exe
+Found WinHttpReceiveResponse         in C:\windows\system32\GWX\GWXDetector.exe
+Found WinHttpConnect                 in C:\windows\system32\GWX\GWXDetector.exe
+Found WinHttpSendRequest             in C:\windows\system32\GWX\GWXDetector.exe
+Found WinHttpOpenRequest             in C:\windows\system32\GWX\GWXDetector.exe
+Found WinHttpOpen                    in C:\windows\system32\GWX\GWXDetector.exe
+
+Found NtWaitForSingleObject          in C:\windows\system32\GWX\GWXUXWorker.exe
+Found WinHttpCloseHandle             in C:\windows\system32\GWX\GWXUXWorker.exe
+Found WinHttpOpen                    in C:\windows\system32\GWX\GWXUXWorker.exe
+Found WinHttpOpenRequest             in C:\windows\system32\GWX\GWXUXWorker.exe
+Found WinHttpSendRequest             in C:\windows\system32\GWX\GWXUXWorker.exe
+Found WinHttpReceiveResponse         in C:\windows\system32\GWX\GWXUXWorker.exe
+Found WinHttpConnect                 in C:\windows\system32\GWX\GWXUXWorker.exe
+Found ShellExecuteExW                in C:\windows\system32\GWX\GWXUXWorker.exe
+
+Found CreateProcessW                 in C:\windows\system32\IME\IMEJP10\IMJPDCT.EXE
+
+Found CreateProcessW                 in C:\windows\system32\IME\IMETC10\IMTCPROP.exe
+
+Found CreateProcessW                 in C:\windows\system32\IME\shared\IMCCPHR.exe
+
+Found QueueUserAPC                   in C:\windows\system32\Macromed\Flash\FlashUtil64_19_0_0_226_ActiveX.exe
+Found OpenProcess                    in C:\windows\system32\Macromed\Flash\FlashUtil64_19_0_0_226_ActiveX.exe
+Found CreateProcessW                 in C:\windows\system32\Macromed\Flash\FlashUtil64_19_0_0_226_ActiveX.exe
+Found ShellExecuteExW                in C:\windows\system32\Macromed\Flash\FlashUtil64_19_0_0_226_ActiveX.exe
+
+Found QueueUserAPC                   in C:\windows\system32\Macromed\Flash\FlashUtil64_27_0_0_187_Plugin.exe
+Found CreateProcessW                 in C:\windows\system32\Macromed\Flash\FlashUtil64_27_0_0_187_Plugin.exe
+Found OpenProcess                    in C:\windows\system32\Macromed\Flash\FlashUtil64_27_0_0_187_Plugin.exe
+Found ShellExecuteExW                in C:\windows\system32\Macromed\Flash\FlashUtil64_27_0_0_187_Plugin.exe
+
+Found OpenProcess                    in C:\windows\system32\migwiz\mighost.exe
+Found OpenThread                     in C:\windows\system32\migwiz\mighost.exe
+
+Found CreateProcessW                 in C:\windows\system32\migwiz\MigSetup.exe
+
+Found CreateProcessW                 in C:\windows\system32\oobe\audit.exe
+Found OpenThread                     in C:\windows\system32\oobe\audit.exe
+
+Found CreateProcessW                 in C:\windows\system32\oobe\msoobe.exe
+
+Found CreateProcessW                 in C:\windows\system32\oobe\oobeldr.exe
+
+Found OpenProcess                    in C:\windows\system32\oobe\Setup.exe
+Found CreateProcessA                 in C:\windows\system32\oobe\Setup.exe
+Found CreateProcessW                 in C:\windows\system32\oobe\Setup.exe
+Found OpenThread                     in C:\windows\system32\oobe\Setup.exe
+Found NtWaitForSingleObject          in C:\windows\system32\oobe\Setup.exe
+
+Found OpenThread                     in C:\windows\system32\oobe\windeploy.exe
+Found CreateProcessW                 in C:\windows\system32\oobe\windeploy.exe
+
+Found ShellExecuteExW                in C:\windows\system32\Speech\SpeechUX\SpeechUXTutorial.exe
+Found OpenProcess                    in C:\windows\system32\Speech\SpeechUX\SpeechUXTutorial.exe
+
+Found ShellExecuteExW                in C:\windows\system32\Speech\SpeechUX\SpeechUXWiz.exe
+Found OpenProcess                    in C:\windows\system32\Speech\SpeechUX\SpeechUXWiz.exe
+
+Found CreateProcessW                 in C:\windows\system32\spool\drivers\x64\3\CNMSEAS.EXE
+
+Found CreateProcessW                 in C:\windows\system32\spool\drivers\x64\3\CNMSEBX.EXE
+
+Found SetWindowsHookExW              in C:\windows\system32\spool\drivers\x64\3\E_WATO46.EXE
+Found ShellExecuteExW                in C:\windows\system32\spool\drivers\x64\3\E_WATO46.EXE
+
+Found CreateProcessW                 in C:\windows\system32\spool\drivers\x64\3\E_YARNPFE.EXE
+
+Found CreateProcessW                 in C:\windows\system32\spool\drivers\x64\3\E_YATIPFE.EXE
+
+Found CreateProcessAsUserW           in C:\windows\system32\spool\drivers\x64\3\E_YBCSPFE.EXE
+Found CreateProcessW                 in C:\windows\system32\spool\drivers\x64\3\E_YBCSPFE.EXE
+Found OpenProcess                    in C:\windows\system32\spool\drivers\x64\3\E_YBCSPFE.EXE
+
+Found CreateProcessW                 in C:\windows\system32\spool\drivers\x64\3\E_YINSPFE.EXE
+Found SetWindowsHookExW              in C:\windows\system32\spool\drivers\x64\3\E_YINSPFE.EXE
+
+Found CreateProcessW                 in C:\windows\system32\spool\drivers\x64\3\E_YJACPFE.EXE
+Found SetWindowsHookExW              in C:\windows\system32\spool\drivers\x64\3\E_YJACPFE.EXE
+
+Found SetWindowsHookExW              in C:\windows\system32\spool\drivers\x64\3\E_YPREPFE.EXE
+
+Found SetWindowsHookExW              in C:\windows\system32\spool\drivers\x64\3\E_YTSPFE.EXE
+Found CreateProcessAsUserW           in C:\windows\system32\spool\drivers\x64\3\E_YTSPFE.EXE
+
+Found ShellExecuteExW                in C:\windows\system32\spool\drivers\x64\3\E_YUBPFE.EXE
+Found SetWindowsHookExW              in C:\windows\system32\spool\drivers\x64\3\E_YUBPFE.EXE
+
+Found CreateProcessW                 in C:\windows\system32\sysprep\sysprep.exe
+
+Found CreateProcessAsUserW           in C:\windows\system32\Wat\WatAdminSvc.exe
+Found WinHttpReadData                in C:\windows\system32\Wat\WatAdminSvc.exe
+Found WinHttpReceiveResponse         in C:\windows\system32\Wat\WatAdminSvc.exe
+Found WinHttpOpen                    in C:\windows\system32\Wat\WatAdminSvc.exe
+Found WinHttpOpenRequest             in C:\windows\system32\Wat\WatAdminSvc.exe
+Found WinHttpCloseHandle             in C:\windows\system32\Wat\WatAdminSvc.exe
+Found WinHttpConnect                 in C:\windows\system32\Wat\WatAdminSvc.exe
+Found WinHttpSendRequest             in C:\windows\system32\Wat\WatAdminSvc.exe
+Found NtWaitForSingleObject          in C:\windows\system32\Wat\WatAdminSvc.exe
+
+Found ShellExecuteExW                in C:\windows\system32\Wat\WatUX.exe
+
+Found CreateProcessW                 in C:\windows\system32\wbem\WinMgmt.exe
+
+Found OpenProcess                    in C:\windows\system32\wbem\WmiApSrv.exe
+
+Found ImpersonateLoggedOnUser        in C:\windows\system32\wbem\WmiPrvSE.exe
+
