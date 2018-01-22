@@ -91,10 +91,19 @@ uint8_t F1(uint8_t x) {
 #define G(x, y, z) (((x) & (y)) | ((z) & ((x) | (y))))
 #define H(x, y, z) ((x) ^ (y) ^ (z))
 
+#define FX(x, y, z) (((x) ^ (y) ^ (z)))
+#define FF(x, y, z) (((x) & (y)) | ((x) & (z)) | ((y) & (z))) 
+#define GG(x, y, z) ((z)  ^ ((x) & ((y) ^ (z))))
+
+#define P0(x) x ^ ROTL32(x,  9) ^ ROTL32(x, 17)
+#define P1(x) x ^ ROTL32(x, 15) ^ ROTL32(x, 23)
+
 #define CH(x, y, z) (((x) & (y)) ^ (~(x) & (z)))
 #define MAJ(x, y, z) (((x) & (y)) ^ ((x) & (z)) ^ ((y) & (z)))
+
 #define EP0(x) (ROTR32(x,2) ^ ROTR32(x,13) ^ ROTR32(x,22))
 #define EP1(x) (ROTR32(x,6) ^ ROTR32(x,11) ^ ROTR32(x,25))
+
 #define SIG0(x) (ROTR32(x,7) ^ ROTR32(x,18) ^ ((x) >> 3))
 #define SIG1(x) (ROTR32(x,17) ^ ROTR32(x,19) ^ ((x) >> 10))
 
@@ -107,13 +116,14 @@ typedef union _w64_t {
 typedef union _w128_t {
   uint8_t b[16];
   uint32_t w[4];
+  uint64_t q[2];
 } w128_t;
 
 uint64_t X0 (void *data, void *key) {
   uint32_t x0, x1, t;
-  w128_t *k=(w128_t*)key;
-  w64_t  *x=(w64_t*)data;
-  int    i;
+  w128_t   *k=(w128_t*)key;
+  w64_t    *x=(w64_t*)data;
+  int      i;
   
   x0 = x->w[0] ^ k->w[0]; 
   x1 = x->w[1] ^ k->w[1];
@@ -126,6 +136,39 @@ uint64_t X0 (void *data, void *key) {
   x->w[0] = x0 ^ k->w[2]; 
   x->w[1] = x1 ^ k->w[3];
   return x->q;
+}
+
+uint64_t Q(w64_t *p){
+    uint64_t q;
+    uint32_t r;
+    int      j;
+
+    q = 0;    
+    r = 0x30201000;  
+    
+    for (j=0; j<64; j++) {
+      q |= ((p->q >> j) & 1) << (r & 255);      
+      r = ROTR32(r+1, 8);
+    }
+    return q;
+}
+
+uint64_t X1 (void *data, void *key) {
+    uint32_t t;
+    w128_t   *k=(w128_t*)key;
+    w64_t    *x=(w64_t*)data;
+    uint64_t i;
+    
+    x->q ^= k->q[0];
+    
+    for (i=1; i<=8; i++) {
+      x->q = Q(x) ^ i;
+      XCHG(x->w[0], x->w[1]);
+    }
+    
+    x->q ^= k->q[1];
+    
+    return x->q;
 }
 
 int main(void) 
@@ -142,7 +185,8 @@ int main(void)
     if (i<8) plain[i]=(i+1);
   }
   
-  printf("%016llX", X0(plain, key));
+  printf("%016llX\n", X0(plain, key));
+  printf("%016llX\n", X1(plain, key));
   return 0;
   
   for (i=0; i<4; i++) {
